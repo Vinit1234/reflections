@@ -1,0 +1,6 @@
+When would you want to create a remote repository rather than keeping all your work local?
+1)When I won't be able to access my repository via my PC.
+(so that I can access it from anywhere else.)
+
+2)When I will be working with a team on the same project.
+3)When I want to find a bug or make changes on the ongoing project. 
